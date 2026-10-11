@@ -1,0 +1,8 @@
+# Versions used for the reported results (Python 3.13.15, Linux, Google Colab).
+pandas==2.2.3
+numpy==2.1.3
+statsmodels==0.15.0
+matplotlib==3.10.0
+# BigQuery access. Versions were not recorded; any current release should work.
+google-cloud-bigquery
+db-dtypes

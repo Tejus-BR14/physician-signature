@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript. Publication details will be added when available."
+title: "physician-signature: code for An Author-Level Component of Clinical Note Length"
+authors:
+  - family-names: "B R"
+    given-names: "Tejus"
+    orcid: "https://orcid.org/0009-0001-0965-1286"
+repository-code: "https://github.com/Tejus-BR14/physician-signature"
+license: MIT
+keywords:
+  - clinical natural language processing
+  - electronic health records
+  - clinical documentation
+  - MIMIC-III
+  - intraclass correlation
+preferred-citation:
+  type: article
+  title: "An Author-Level Component of Clinical Note Length: Evidence from MIMIC-III Resident Progress Notes and a Testable Hypothesis for Clinical Natural Language Processing"
+  authors:
+    - family-names: "B R"
+      given-names: "Tejus"
+      orcid: "https://orcid.org/0009-0001-0965-1286"
+  year: 2026
+  notes: "Manuscript in submission."
